@@ -1,0 +1,1 @@
+Import-Module $PSScriptRoot\Module\PSModule.psm1 -Force
